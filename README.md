@@ -1,14 +1,14 @@
 # LSTM-Autoencoder-for-Emergency-Braking-Support
 The project aim to solve or reduce the number of traffic accidents caused by human-error especially mistaking the gas-pedal for the brake-pedal by implementing LSTM autoencoder using Tensorflow/Keras to read vehicle's sensor data: brake-pedal position, gas-pedal position and vehicle speed. The goal is to learn the pattern in such errors and support making the right decision: to brake or not to brake.
 ## 📌Table of Contents
-*  [Overview](🔍Overview)
-*  [Tech Stack](⚙️Tech-Stack)
-*  [Methodology](🧠Methodology)
-   *  [Dataset](📁Dataset)
-   *  [Architecture](🏗️Architecture)
-*  [Result](📊Result)
-*  [Setup](🚀Setup)
-*  [Authors](👤Authors)
+*  [Overview](#🔍Overview)
+*  [Tech Stack](#⚙️Tech-Stack)
+*  [Methodology](#🧠Methodology)
+   *  [Dataset](#📁Dataset)
+   *  [Architecture](#🏗️Architecture)
+*  [Result](#📊Result)
+*  [Setup](#🚀Setup)
+*  [Authors](#👤Authors)
 ---
 ## 🔍Overview
 * Model includes: LSTM, Autoencoder
