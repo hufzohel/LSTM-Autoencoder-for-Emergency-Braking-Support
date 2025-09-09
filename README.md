@@ -41,5 +41,6 @@ LSTM Autoencoder for Emergency Braking Support
    git clone https://github.com/hufzohel/LSTM-Autoencoder-for-Emergency-Braking-Support.git
    ```
 ## 👤Authors
-Trần Nguyễn Mạnh Cường - MSSV:2210446
-
+Giảng Viên Hướng Dẫn: Ph.D Nguyễn An Khương
+Đồ án Tổng hợp - hướng trí tuệ nhân tạo - CO3101
+Sinh viên: Trần Nguyễn Mạnh Cường - MSSV:2210446
