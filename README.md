@@ -2,10 +2,10 @@
 The project aim to solve or reduce the number of traffic accidents caused by human-error especially mistaking the gas-pedal for the brake-pedal by implementing LSTM autoencoder using Tensorflow/Keras to read vehicle's sensor data: brake-pedal position, gas-pedal position and vehicle speed. The goal is to learn the pattern in such errors and support making the right decision: to brake or not to brake.
 ## 📌Table of Contents
 *  [Overview](#overview)
-*  [Tech Stack](#tech-stack)
+*  [Tech Stack](#%EF%B8%8Ftech-stack)
 *  [Methodology](#methodology)
    *  [Dataset](#dataset)
-   *  [Architecture](#architecture)
+   *  [Architecture](#%EF%B8%8Farchitecture)
 *  [Result](#result)
 *  [Setup](#setup)
 *  [Authors](#authors)
